@@ -29,7 +29,7 @@ Imagine this as the glue that binds Redux with React.
 ## Create Actions
 
 Redux is very strict about how it allows state to be modified.
-Changes to state can only be implement through actions which
+Changes to state can only be implemented through actions which
 you will define.
 
 Create a folder named: 'src/actions'
